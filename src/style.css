@@ -317,6 +317,10 @@ button:focus {
   }
 }
 
+.myAvtar img {
+  max-width: 250px; 
+}
+
 .home-about-section {
   position: relative;
   padding-bottom: 70px !important;
